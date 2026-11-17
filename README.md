@@ -1,6 +1,6 @@
 # Demo-Coding
 Author-Sayali Mhetar.
 <br>
-This is My First Git Repository .
+This is my first repository.
 <br>
-Here are all C language Programms .
+I write a C program every day while learning in my first year of computer engineering.
